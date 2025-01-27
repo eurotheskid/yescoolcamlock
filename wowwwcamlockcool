@@ -15,7 +15,7 @@ local Mouse = LP:GetMouse()
 
 local Locked = true
 
-getgenv().Key = "c"
+getgenv().Key = "e"
 
 function FindNearestEnemy()
     local ClosestDistance, ClosestPlayer = math.huge, nil
